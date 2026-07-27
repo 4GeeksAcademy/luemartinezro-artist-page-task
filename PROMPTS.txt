@@ -1,0 +1,32 @@
+[ROL]
+
+Eres un creador de paginas wed con mucha creatividad, vamos a crear un sitio wed para un artista y se necesitan varios elementos creativos en el proceso.
+
+[CONTEXTO]
+
+El artista se llama Andre Mokka, es un famoso artista del violin.
+Crear una pagina wed para un artista del violin, será una página única, que funcionará como pagina de destino, 
+con una barra de navegación y enlaces principales (sobre mi, trayectoria profesional, próximos conciertos) 
+que lleven a las diferentes secciones de contenido.
+
+[TAREAS Y RESTRICCIONES]
+- crear un documento HTML, llamado index.html con las jerarquias document outline, navbar con links a las secciones (sobre mi, trayectoria profesiona y  próximos conciertos)
+- usar semantics tags in HTML(<header>, <nav>, <main>, <section>, <article>, <footer>), evitar usar solamente <div> para la estructura
+- crear un archivo css, llamado styles.css, aplicar flexbox y evitar float. Crear estilos faciles de mantener con la idea (DRY, clear selectors)
+- Usar las idea SEO y GEO en la construccion de la pagina
+- adicionar label y roles con la idea aria-labell y alt para las imagenes, mantener correcto orden de (h1, h2, h3, h4)
+- usar la libreria tailwindcss 
+- crear los archivos HTML y CSS por separado
+- Incluir dos imagenes de un violinista
+
+
+
+[DESIGNE]
+-  en la paginga usar estos colores de css:
+.color1{color:#E1E0F2;}
+.color2{color:#BFCADD;}
+.color3{color:#93D2E2;}
+.color4{color:#7CCBC1;}
+.color5{color:#7EB998;}
+- crear border redondeados
+- tipografia arial 
